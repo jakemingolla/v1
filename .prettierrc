@@ -1,5 +1,8 @@
 {
   "singleQuote": true,
   "jsxSingleQuote": true,
-  "tabWidth": 2
+  "tabWidth": 2,
+  "importOrder": [ "^@material-ui/(.*)$", "^[./]"],
+  "importOrderSeparation": true,
+  "experimentalBabelParserPluginsList": [ "jsx" ]
 }

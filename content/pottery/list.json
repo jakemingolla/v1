@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "153",
+      "year": "2020",
+      "material": "white stoneware",
+      "glazes": [ "Cheryl's Blue-Green", "Granny Smith" ],
+      "heightInches": 4.5,
+      "widthInches": 4,
+      "image": "2020-153-0.jpg"
+    },
+    {
+      "id": "132",
+      "year": "2020",
+      "material": "porcelain",
+      "glazes": [ "Ben's Amber" ],
+      "heightInches": 5.5,
+      "widthInches": 4,
+      "image": "2020-132-0.jpg"
+    },
+    {
+      "id": "62",
+      "year": "2019",
+      "material": "white stoneware",
+      "glazes": [],
+      "heightInches": 5,
+      "widthInches": 4,
+      "image": "2019-62-0.jpg"
+    },
+    {
+      "id": "87",
+      "year": "2019",
+      "material": "porcelain",
+      "glazes": [ "Tenmoku", "Light Rutile Blue" ],
+      "heightInches": 3.5,
+      "widthInches": 5,
+      "image": "2019-87-0.jpg"
+    }
+  ]
+}
